@@ -1,0 +1,1 @@
+# kucoin-historical-data
