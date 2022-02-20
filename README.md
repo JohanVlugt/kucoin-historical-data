@@ -17,7 +17,7 @@ Link 2
 
 ## Maintaining downloaded data
 
-You can maintain the data yourself by using the `docker-compose` file.
+You can maintain the data yourself by using the `docker-compose.yml` file.
 You will need the provided ```config.json``` to connect to the kucoin-proxy.
 
 ## Credits
