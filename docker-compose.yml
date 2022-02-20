@@ -18,7 +18,7 @@ services:
     networks:
       customnetwork:
         ipv4_address: "172.25.0.3"
-    container_name: freqtrade_dry_download_1
+    container_name: freqtrade_download_1
     depends_on:
       - "exchange_proxy"
     volumes:
@@ -34,7 +34,7 @@ services:
     networks:
       customnetwork:
         ipv4_address: "172.25.0.4"
-    container_name: freqtrade_dry_download_2
+    container_name: freqtrade_download_2
     depends_on:
       - "exchange_proxy"
     volumes:
@@ -43,7 +43,39 @@ services:
       download-data
       --new-pairs-days 1460
       --config user_data/kucoin_config.json
-      -t 5m 15m 30m 1h 2h 4h 6h 8h 12h 1d 1w
+      -t 3m
+
+  freqtrade_download_3:
+    image: freqtradeorg/freqtrade:stable
+    networks:
+      customnetwork:
+        ipv4_address: "172.25.0.5"
+    container_name: freqtrade_download_3
+    depends_on:
+      - "exchange_proxy"
+    volumes:
+      - "./user_data:/freqtrade/user_data"
+    command: >
+      download-data
+      --new-pairs-days 1460
+      --config user_data/kucoin_config.json
+      -t 5m 15m
+
+  freqtrade_download_4:
+    image: freqtradeorg/freqtrade:stable
+    networks:
+      customnetwork:
+        ipv4_address: "172.25.0.6"
+    container_name: freqtrade_download_4
+    depends_on:
+      - "exchange_proxy"
+    volumes:
+      - "./user_data:/freqtrade/user_data"
+    command: >
+      download-data
+      --new-pairs-days 1460
+      --config user_data/kucoin_config.json
+      -t 30m 1h 2h 4h 6h 8h 12h 1d 1w
 
 networks:
   customnetwork:
