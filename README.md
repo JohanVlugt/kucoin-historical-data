@@ -1,19 +1,18 @@
 # Kucoin historical data
-ohlcv history of 300+ Kucoin pairs
 
+ohlcv history of 300+ Kucoin pairs.
 Below you can find the historical data uploaded to the cloud.
-
 The data is separated in 2 zipped files containing: ```1m``` and ```5m 15m 30m 1h 2h 4h 6h 8h 12h 1d 1w``` data.
 
 ```1m``` data from ```feb-19-2018``` until ```feb-19-2022```:
 
-Link1                             
+Link: https://filen.io/d/fd0388e4-e348-4207-a17d-f80a71b237f9#!0rLNlqgPM9HbyRkRAzbZG82RD7bOIPg3
 
 ```5m 15m 30m 1h 2h 4h 6h 8h 12h 1d 1w``` data from ```feb-19-2018``` until ```feb-19-2022```:
 
-Link 2
+Link:
 
-
+password: joop
 
 ## Maintaining downloaded data
 
