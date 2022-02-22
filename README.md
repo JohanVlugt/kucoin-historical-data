@@ -9,7 +9,7 @@ The data is separated in 3 zipped folders containing: ```1m```, ```3m``` and ```
 Link: https://filen.io/d/8ab1a65a-56e5-4a59-bb62-5fb73096ed80#!hbvZpd7duTBsxOE93QHUOuhPYDT3Hsqz
 
 ```3m``` data from ```feb-19-2018``` until ```feb-19-2022```:  
-Link:
+Link: https://filen.io/d/cfc7a30b-6340-434d-96df-b2b46b7a9470#!zVP006ts0s8UTpB5zKvdj1bzFfyi4rK6
 
 ```5m 15m 30m 1h 2h 4h 6h 8h 12h 1d 1w``` data from ```feb-19-2018``` until ```feb-19-2022```:  
 Link: https://filen.io/d/fd0388e4-e348-4207-a17d-f80a71b237f9#!0rLNlqgPM9HbyRkRAzbZG82RD7bOIPg3
