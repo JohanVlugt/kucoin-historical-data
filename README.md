@@ -16,13 +16,13 @@ Link: https://filen.io/d/fd0388e4-e348-4207-a17d-f80a71b237f9#!0rLNlqgPM9HbyRkRA
 
 ### All 600+ kucoin USDT pairs
 ```1m``` data from ```feb-19-2018``` until ```feb-19-2022```:  
-Link:
+Link: https://filen.io/d/93695c1f-cd46-4898-8506-018bfd68d240#!y0dU4p6NhSxj0Rr4fYkVgafujnuIYTaH
 
 ```3m``` data from ```feb-19-2018``` until ```feb-19-2022```:  
-Link:
+Link: https://filen.io/d/7b5c72eb-69e4-4d71-9748-7a82d8637431#!3gIcHIPOcY1liPYsoZ7G3PxyQQXfcMN1
 
 ```5m 15m 30m 1h 2h 4h 6h 8h 12h 1d 1w``` data from ```feb-19-2018``` until ```feb-19-2022```:  
-Link:
+Link: https://filen.io/d/223345ea-1bd9-44ed-a6f1-bd4062e70e71#!Btso8ApRcqtKkR3DisRXCcxiHvEO5wAb
 
 password: joop
 
